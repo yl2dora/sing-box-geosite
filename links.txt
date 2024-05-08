@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/yl2dora/Rules/main/lists/speedtest-domainset.c
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/stream.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/telegram-ip.conf
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list
