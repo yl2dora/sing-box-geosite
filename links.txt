@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/yl2dora/Rules/main/lists/domestic.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/global.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/lan.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/microsoft_cdn.conf
+https://raw.githubusercontent.com/yl2dora/Rules/main/lists/microsoft.conf
 https://github.com/yl2dora/Rules/raw/main/lists/reject-domainset.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/reject-drop.conf
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/reject-ip.conf
