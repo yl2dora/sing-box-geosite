@@ -1,2 +1,3 @@
 https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Reject.list
 https://fastly.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list
+https://ruleset.skk.moe/List/non_ip/reject-drop.conf
