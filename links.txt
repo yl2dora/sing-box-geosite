@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/yl2dora/Rules/main/lists/sogouinput.conf
+https://github.com/yl2dora/Rules/raw/main/lists/sogouinput.conf
 https://github.com/yl2dora/Rules/raw/main/lists/domainset_reject.conf
 https://github.com/yl2dora/Rules/raw/main/lists/non_ip_reject.conf
 https://github.com/yl2dora/Rules/raw/main/lists/reject_no_drop.conf
