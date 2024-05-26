@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cdn-telegram.org",
+        "graph.org",
+        "legra.ph",
+        "t.me",
+        "tdesktop.com",
+        "telega.one",
+        "telegra.ph",
+        "telegram.dog",
+        "telegram.me",
+        "telegram.org",
+        "telegram.space",
+        "telesco.pe",
+        "tg.dev",
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "tx.me"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cdn-telegram.org",
+        ".graph.org",
+        ".legra.ph",
+        ".t.me",
+        ".tdesktop.com",
+        ".telega.one",
+        ".telegra.ph",
+        ".telegram.dog",
+        ".telegram.me",
+        ".telegram.org",
+        ".telegram.space",
+        ".telesco.pe",
+        ".tg.dev",
+        ".tx.me"
+      ]
+    }
+  ],
+  "version": 1
+}
