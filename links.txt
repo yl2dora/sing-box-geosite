@@ -29,3 +29,4 @@ https://github.com/yl2dora/Rules/raw/main/lists/telegram-ip.conf
 https://github.com/yl2dora/Rules/raw/main/lists/ip_lan.conf
 https://github.com/yl2dora/Rules/raw/main/lists/ip_domestic.conf
 https://github.com/yl2dora/Rules/raw/main/lists/china_ip.conf
+https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Gemini/Gemini.list
