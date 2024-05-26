@@ -1,8 +1,8 @@
 https://raw.githubusercontent.com/yl2dora/Rules/main/lists/sogouinput.conf
-https://ruleset.skk.moe/List/domainset/reject.conf
-https://ruleset.skk.moe/List/non_ip/reject.conf
-https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf
-https://ruleset.skk.moe/List/non_ip/reject-drop.conf
+https://github.com/yl2dora/Rules/raw/main/lists/domainset_reject.conf
+https://github.com/yl2dora/Rules/raw/main/lists/non_ip_reject.conf
+https://github.com/yl2dora/Rules/raw/main/lists/reject_no_drop.conf
+https://github.com/yl2dora/Rules/raw/main/lists/reject_drop.conf
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list
