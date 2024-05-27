@@ -10,19 +10,17 @@
         "cn.windowssearch.com",
         "collaborate.download.prss.microsoft.com",
         "collaborateppe.download.prss.microsoft.com",
-        "devblogs.microsoft.com",
-        "developer.microsoft.com",
+        "ctldl.windowsupdate.com",
         "dl.delivery.mp.microsoft.com",
-        "docs.microsoft.com",
         "download.microsoft.com",
         "download.prss.microsoft.com",
         "download.visualstudio.microsoft.com",
+        "download.windowsupdate.com",
         "dreamspark.download.prss.microsoft.com",
         "dreamsparkuat.download.prss.microsoft.com",
         "fs.microsoft.com",
         "itacademy.download.prss.microsoft.com",
         "itacademyuat.download.prss.microsoft.com",
-        "learn.microsoft.com",
         "lex.download.prss.microsoft.com",
         "lexuat.download.prss.microsoft.com",
         "mbs.download.prss.microsoft.com",
@@ -57,8 +55,7 @@
         "vz.download.prss.microsoft.com",
         "windbg.download.prss.microsoft.com",
         "wscont1.apps.microsoft.com",
-        "wscont2.apps.microsoft.com",
-        "www.microsoft.com"
+        "wscont2.apps.microsoft.com"
       ]
     },
     {
@@ -71,19 +68,17 @@
         ".cn.windowssearch.com",
         ".collaborate.download.prss.microsoft.com",
         ".collaborateppe.download.prss.microsoft.com",
-        ".devblogs.microsoft.com",
-        ".developer.microsoft.com",
+        ".ctldl.windowsupdate.com",
         ".dl.delivery.mp.microsoft.com",
-        ".docs.microsoft.com",
         ".download.microsoft.com",
         ".download.prss.microsoft.com",
         ".download.visualstudio.microsoft.com",
+        ".download.windowsupdate.com",
         ".dreamspark.download.prss.microsoft.com",
         ".dreamsparkuat.download.prss.microsoft.com",
         ".fs.microsoft.com",
         ".itacademy.download.prss.microsoft.com",
         ".itacademyuat.download.prss.microsoft.com",
-        ".learn.microsoft.com",
         ".lex.download.prss.microsoft.com",
         ".lexuat.download.prss.microsoft.com",
         ".mbs.download.prss.microsoft.com",
@@ -116,8 +111,7 @@
         ".vz.download.prss.microsoft.com",
         ".windbg.download.prss.microsoft.com",
         ".wscont1.apps.microsoft.com",
-        ".wscont2.apps.microsoft.com",
-        ".www.microsoft.com"
+        ".wscont2.apps.microsoft.com"
       ]
     }
   ],
