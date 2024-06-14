@@ -5,11 +5,14 @@
         "advertising.com",
         "amplitude.com",
         "crazyegg.com",
+        "incoming-telemetry.thunderbird.net",
         "net.mydays.de",
         "notify6.com",
         "notifysrv.com",
         "openx.net",
         "stun.smartgslb.com",
+        "telemetry-coverage.mozilla.org",
+        "telemetry.mozilla.org",
         "this_rule_set_is_made_by_sukkaw.skk.moe",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
@@ -72,10 +75,13 @@
         ".advertising.com",
         ".amplitude.com",
         ".crazyegg.com",
+        ".incoming-telemetry.thunderbird.net",
         ".net.mydays.de",
         ".notify6.com",
         ".notifysrv.com",
-        ".openx.net"
+        ".openx.net",
+        ".telemetry-coverage.mozilla.org",
+        ".telemetry.mozilla.org"
       ]
     }
   ],
