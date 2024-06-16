@@ -22,7 +22,9 @@
         "30.172.in-addr.arpa",
         "31.172.in-addr.arpa",
         "home.arpa",
-        "local",
+        "lan",
+        "localdomain",
+        "localhost",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
@@ -48,7 +50,9 @@
         ".30.172.in-addr.arpa",
         ".31.172.in-addr.arpa",
         ".home.arpa",
-        ".local"
+        ".lan",
+        ".localdomain",
+        ".localhost"
       ]
     }
   ],
