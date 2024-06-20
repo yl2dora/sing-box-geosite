@@ -82,6 +82,9 @@
         "windowsazure.com",
         "windowsupdate.com",
         "wunderlist.com",
+        "xbox.com",
+        "xboxlive.com",
+        "xboxservices.com",
         "yammer.com",
         "yammerusercontent.com"
       ]
@@ -173,6 +176,9 @@
         ".windowsazure.com",
         ".windowsupdate.com",
         ".wunderlist.com",
+        ".xbox.com",
+        ".xboxlive.com",
+        ".xboxservices.com",
         ".yammer.com",
         ".yammerusercontent.com"
       ]
