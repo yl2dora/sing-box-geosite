@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "build.microsoft.com",
         "cn.windowssearch.com",
         "ctldl.windowsupdate.com",
         "dl.delivery.mp.microsoft.com",
@@ -21,6 +22,7 @@
     },
     {
       "domain_suffix": [
+        ".build.microsoft.com",
         ".cn.windowssearch.com",
         ".ctldl.windowsupdate.com",
         ".dl.delivery.mp.microsoft.com",
