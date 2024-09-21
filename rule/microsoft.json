@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain": [
-        "1drv.com",
         "aadrm.com",
         "acompli.com",
         "acompli.net",
@@ -23,12 +22,9 @@
         "docs.com",
         "edgesuite.net",
         "gfx.ms",
-        "hotmail.com",
         "live.com",
         "live.net",
         "lync.com",
-        "microsoft.com",
-        "microsoftonline.com",
         "msappproxy.net",
         "msauth.net",
         "msauthimages.net",
@@ -48,7 +44,6 @@
         "office.com",
         "office.net",
         "office365.com",
-        "officecdn-microsoft-com.akamaized.net",
         "officeppe.net",
         "omniroot.com",
         "onedrive.com",
@@ -98,7 +93,6 @@
     },
     {
       "domain_suffix": [
-        ".1drv.com",
         ".aadrm.com",
         ".acompli.com",
         ".acompli.net",
@@ -119,12 +113,9 @@
         ".docs.com",
         ".edgesuite.net",
         ".gfx.ms",
-        ".hotmail.com",
         ".live.com",
         ".live.net",
         ".lync.com",
-        ".microsoft.com",
-        ".microsoftonline.com",
         ".msappproxy.net",
         ".msauth.net",
         ".msauthimages.net",
